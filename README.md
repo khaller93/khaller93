@@ -10,7 +10,9 @@ Together with Eleni Ilkou, I am working on a KG-based recommendation engine for 
 *Repositories will be published later after the paper gets accepted.*
 
 ### Exploratory Search System (inactive)
-I was working on an exploratory search system which can be applied to any RDF-based knowledge graph that is aligned to a rich ontology. This system provides an adaptive user interface with different search paradigms such as full-text search, tree views and faceted navigation. These repositories are currently private, unfortunately. You can see my workshop paper for details: [Enabling Exploratory Search on Manufacturing Knowledge Graphs](https://ceur-ws.org/Vol-3253/paper2.pdf) | [(Slides)](https://kevinhaller.dev/papers/22-voila-slides.pdf).
+I was working on an exploratory search system which can be applied to any RDF-based knowledge graph that is aligned to a rich ontology. This system provides an adaptive user interface with different search paradigms such as full-text search, tree views and faceted navigation. You can see my workshop paper for details: [Enabling Exploratory Search on Manufacturing Knowledge Graphs](https://ceur-ws.org/Vol-3253/paper2.pdf) | [(Slides)](https://kevinhaller.dev/papers/22-voila-slides.pdf).
+
+* [khaller93/es-middleware](https://github.com/khaller93/es-middleware)
 
 ## 📫 My online presence
 
