@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Kevin ([wd:Q57303201](https://www.wikidata.org/wiki/Q57303201)) 
 
-I am a software engineer, and I am passionate about knowledge graphs.
+I am a software engineer at [DeepSearch](https://deepassist.com/de/startseite/), and I am passionate about knowledge graphs.
 
 ## 🔭 Projects
 
