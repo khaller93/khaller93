@@ -2,7 +2,7 @@
 
 I am a software developer at [deepsearch](https://deepassist.com/de/startseite/), and I am passionate about knowledge graphs.
 
-## 🔭 Projects
+## 🔭 Hobby Projects
 
 ### KG-based recommendations
 Together with Eleni Ilkou, I am working on a KG-based recommendation engine for an e-learning platform, on which students collaborate in groups for a project. Using named entity recognition on the search queries of students and their group members, we aim to infer their current interests and provide good query suggestions. Related repositories are:
