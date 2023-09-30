@@ -1,4 +1,4 @@
-### 👋 Hi, I am Kevin ([wd:Q57303201](https://www.wikidata.org/wiki/Q57303201)) 
+### 👋 Hi, I am Kevin
 
 I am a software developer at [deepsearch](https://deepassist.com/de/startseite/), and I am passionate about knowledge graphs.
 
