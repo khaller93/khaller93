@@ -2,7 +2,7 @@
 
 I am a software developer at [deepsearch](https://deepassist.com/de/startseite/), and I am passionate about knowledge graphs.
 
-## 💼 Languages & Tools
+## 🔧 Languages & Tools
 <p>
   <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img alt="IntelliJ" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
@@ -30,9 +30,6 @@ The exploratory search system can be applied to any RDF-based knowledge graph th
 
 * [khaller93/es-middleware](https://github.com/khaller93/es-middleware) - Middleware offering exploratory search services for a general knowledge graph over a HTTP+JSON API.
 * [khaller93/es-web-app](https://github.com/khaller93/es-web-app) - Single-page web application providing an user interface for exploring knowledge graphs in a human-friendly manner.
-
-## 
-
 
 ## 📫 My online presence
 
