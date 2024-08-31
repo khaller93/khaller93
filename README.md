@@ -34,4 +34,4 @@ The exploratory search system can be applied to any RDF-based knowledge graph th
 ## 🎓 Learning
 
 * [Elixir programming language](https://elixir-lang.org/) for building modern web applications.
-* [GQL](https://www.gqlstandards.org/) as the newly released standard for querying property graphs (similar to Cpyher).
+* [GQL](https://www.gqlstandards.org/) as the newly released standard for querying property graphs (similar to Cypher).
