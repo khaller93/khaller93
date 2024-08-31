@@ -31,8 +31,7 @@ The exploratory search system can be applied to any RDF-based knowledge graph th
 * [khaller93/es-middleware](https://github.com/khaller93/es-middleware) - Middleware offering exploratory search services for a general knowledge graph over a HTTP+JSON API.
 * [khaller93/es-web-app](https://github.com/khaller93/es-web-app) - Single-page web application providing an user interface for exploring knowledge graphs in a human-friendly manner.
 
-## 📫 My online presence
+## 🎓 Learning
 
-* You can follow and contact me on Twitter: [@khaller93](https://twitter.com/khaller93).
-* You can check out my [LinkedIn profile](https://www.linkedin.com/in/kevin-haller-83b296aa/).
-* You can also visit my [personal website](https://kevinhaller.dev/), but I am currently not blogging there.
+* [Elixir programming language](https://elixir-lang.org/) for building modern web applications.
+* [GQL](https://www.gqlstandards.org/) as the newly released standard for querying property graphs.
