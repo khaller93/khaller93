@@ -2,6 +2,21 @@
 
 I am a software developer at [deepsearch](https://deepassist.com/de/startseite/), and I am passionate about knowledge graphs.
 
+## 💼 Languages & Tools
+<p>
+  <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="IntelliJ" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+  <img alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+  <img alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
+  <img alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="Go" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
+  <img alt="Visual Studio Code" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img alt="Neo4J" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg"/>
+  <img alt="W3C" width="40px" style="padding-right:10px;" src="https://www.w3.org/Icons/SW/sw-cube-v.svg"/><strong>&nbsp;RDF, OWL & SPARQL</strong>
+</p>
+
 ## 🔭 Side Projects
 
 ### Pokémon Knowledge Graph
@@ -15,6 +30,9 @@ The exploratory search system can be applied to any RDF-based knowledge graph th
 
 * [khaller93/es-middleware](https://github.com/khaller93/es-middleware) - Middleware offering exploratory search services for a general knowledge graph over a HTTP+JSON API.
 * [khaller93/es-web-app](https://github.com/khaller93/es-web-app) - Single-page web application providing an user interface for exploring knowledge graphs in a human-friendly manner.
+
+## 
+
 
 ## 📫 My online presence
 
