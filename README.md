@@ -2,7 +2,7 @@
 
 I am a software developer at [deepsearch](https://deepassist.com/de/startseite/), and I am passionate about knowledge graphs.
 
-## 🔭 Side Projects
+## 🔭 Side projects
 
 ### Pokémon Knowledge Graph
 PokemonKG is a knowledge graph that aims to encapsulate the rich and detailed world of Pokémon as portrayed in both games and the anime television series. The current PokemonKG was assembled by integrating information from various community-driven platforms. You can see more details here:
