@@ -14,7 +14,7 @@ I am a software developer at [deepsearch](https://deepassist.com/de/startseite/)
   <img alt="Go" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
   <img alt="Visual Studio Code" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img alt="Neo4J" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg"/>
-  <img alt="W3C" width="40px" style="padding-right:10px;" src="https://www.w3.org/Icons/SW/sw-cube-v.svg"/><strong>&nbsp;RDF, OWL & SPARQL</strong>
+  <img alt="W3C" width="40px" style="padding-right:10px;" src="https://www.w3.org/Icons/SW/sw-cube-v.svg"/><strong>&nbsp;RDF, OWL , SHACL & SPARQL</strong>
 </p>
 
 ## 🔭 Projects
