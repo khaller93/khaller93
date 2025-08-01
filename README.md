@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Kevin
 
-I am a software developer at [deepsearch](https://deepassist.com/de/startseite/), and I am passionate about knowledge graphs.
+I am a software developer, and I am passionate about knowledge graphs.
 
 ## ⚙️ Languages & Tools
 <p>
